@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1546375806 source:c:\users\encin\desktop\zoo\main.cpp
+	<iostream>
+	"Animal.h"
+	"Perro.h"
+	"Gato.h"
+	"Lista.h"
+
+1546375921 source:c:\users\encin\desktop\zoo\src\animal.cpp
+	"Animal.h"
+
+1546372752 c:\users\encin\desktop\zoo\include\animal.h
+	<iostream>
+	<string>
+	<sstream>
+
+1546372936 source:c:\users\encin\desktop\zoo\src\perro.cpp
+	"Perro.h"
+
+1546372926 c:\users\encin\desktop\zoo\include\perro.h
+	"Animal.h"
+
+1546373781 source:c:\users\encin\desktop\zoo\src\gato.cpp
+	"Gato.h"
+
+1546373668 c:\users\encin\desktop\zoo\include\gato.h
+	"Animal.h"
+
+1546374568 source:c:\users\encin\desktop\zoo\src\nodo.cpp
+	"Nodo.h"
+
+1546374500 c:\users\encin\desktop\zoo\include\nodo.h
+	"Animal.h"
+
+1546375730 source:c:\users\encin\desktop\zoo\src\lista.cpp
+	"Lista.h"
+
+1546375229 c:\users\encin\desktop\zoo\include\lista.h
+	"Nodo.h"
+
